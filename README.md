@@ -1,5 +1,6 @@
 # SPAMit-WhatsApp-Spammer
 SPAMit is an open source spammer for WhatsApp messenger that disguises itself as a keyboard allowing users to send hundreds of messages at the press of a button
+👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain)👈
 
 # Usage
 Download a release binary from the releases page, install the apk on your phone and follow the tutorial
